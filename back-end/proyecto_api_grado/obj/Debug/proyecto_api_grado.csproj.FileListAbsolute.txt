@@ -1,0 +1,136 @@
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\proyecto_api_grado.dll.config
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\proyecto_api_grado.dll
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\proyecto_api_grado.pdb
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\System.Buffers.dll
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\System.Memory.dll
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\Newtonsoft.Json.Bson.dll
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Buffers.dll
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Memory.dll
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Net.Http.Formatting.dll
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Numerics.Vectors.dll
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Web.Cors.dll
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Web.Http.Cors.dll
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Web.Http.dll
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Web.Http.WebHost.dll
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\Newtonsoft.Json.Bson.xml
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Buffers.xml
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Memory.xml
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Net.Http.Formatting.xml
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Numerics.Vectors.xml
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Web.Http.xml
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Web.Http.Cors.xml
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Web.Http.WebHost.xml
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\es\System.Web.Http.resources.dll
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\obj\Debug\proyecto_api_grado.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\obj\Debug\proyecto_api_grado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\obj\Debug\proyecto.4547EE57.Up2Date
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\obj\Debug\proyecto_api_grado.dll
+C:\Users\Usuario\Desktop\SENA ESCRI\backup\proyecto-e-commerse-v1\proyecto_api_grado\obj\Debug\proyecto_api_grado.pdb
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\proyecto_api_grado.dll.config
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\proyecto_api_grado.dll
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\proyecto_api_grado.pdb
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\System.Buffers.dll
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\System.Memory.dll
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\Newtonsoft.Json.Bson.dll
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Buffers.dll
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Memory.dll
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Net.Http.Formatting.dll
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Numerics.Vectors.dll
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Web.Cors.dll
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Web.Http.Cors.dll
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Web.Http.dll
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Web.Http.WebHost.dll
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\Newtonsoft.Json.Bson.xml
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Buffers.xml
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Memory.xml
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Net.Http.Formatting.xml
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Numerics.Vectors.xml
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Web.Http.xml
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Web.Http.Cors.xml
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\System.Web.Http.WebHost.xml
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\es\System.Web.Http.resources.dll
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\obj\Debug\proyecto_api_grado.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\obj\Debug\proyecto_api_grado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\obj\Debug\proyecto.4547EE57.Up2Date
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\obj\Debug\proyecto_api_grado.dll
+C:\Users\Usuario\Desktop\ULTIMA-VERSION-PROYECTO\proyecto-e-commerse-v1\proyecto_api_grado\obj\Debug\proyecto_api_grado.pdb
