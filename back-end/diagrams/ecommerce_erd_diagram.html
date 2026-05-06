@@ -1,0 +1,207 @@
+
+<style>
+#erd { padding: 8px 0; }
+#erd svg { width: 100%; }
+.mermaid-legend { display: flex; gap: 20px; flex-wrap: wrap; margin: 12px 0 4px; font-size: 12px; color: var(--color-text-secondary); }
+.legend-item { display: flex; align-items: center; gap: 6px; }
+.legend-dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+</style>
+
+<div class="mermaid-legend">
+  <div class="legend-item"><div class="legend-dot" style="background:#0F6E56"></div>Geografía</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#185FA5"></div>Clientes</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#854F0B"></div>Catálogo</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#993556"></div>Pedidos / Facturación</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#533089"></div>Pagos y Envíos</div>
+</div>
+
+<div id="erd"></div>
+
+<script type="module">
+import mermaid from 'https://esm.sh/mermaid@11/dist/mermaid.esm.min.mjs';
+const dark = matchMedia('(prefers-color-scheme: dark)').matches;
+await document.fonts.ready;
+mermaid.initialize({
+  startOnLoad: false,
+  theme: 'base',
+  fontFamily: '"Anthropic Sans", sans-serif',
+  themeVariables: {
+    darkMode: dark,
+    fontSize: '12px',
+    fontFamily: '"Anthropic Sans", sans-serif',
+    lineColor: dark ? '#9c9a92' : '#73726c',
+    textColor: dark ? '#c2c0b6' : '#3d3d3a',
+    primaryColor: dark ? '#1D3A2A' : '#E1F5EE',
+    primaryBorderColor: dark ? '#1D9E75' : '#0F6E56',
+    primaryTextColor: dark ? '#9FE1CB' : '#085041',
+    secondaryColor: dark ? '#0C2A40' : '#E6F1FB',
+    secondaryBorderColor: dark ? '#378ADD' : '#185FA5',
+    secondaryTextColor: dark ? '#B5D4F4' : '#042C53',
+    tertiaryColor: dark ? '#2D1A00' : '#FAEEDA',
+    tertiaryBorderColor: dark ? '#BA7517' : '#854F0B',
+    tertiaryTextColor: dark ? '#FAC775' : '#412402',
+  },
+});
+
+const diagram = `erDiagram
+  Departamento {
+    int id_departamento PK
+    nvarchar nombre
+    varchar codigo_dane
+    bit activo
+  }
+  Ciudad {
+    int id_ciudad PK
+    nvarchar nombre
+    varchar codigo_dane
+    bit activo
+    int id_departamento FK
+  }
+  CodigoPostal {
+    int id_codigo_postal PK
+    varchar codigo
+    bit activo
+    int id_ciudad FK
+  }
+  Cliente {
+    bigint id_cliente PK
+    nvarchar nombres
+    nvarchar apellidos
+    nvarchar email
+    nvarchar telefono
+    nvarchar contrasena_hash
+    nvarchar estado
+    datetime2 created_at
+    datetime2 updated_at
+  }
+  DireccionCliente {
+    bigint id_direccion PK
+    nvarchar descripcion
+    bit es_principal
+    bit activo
+    bigint id_cliente FK
+    int id_codigo_postal FK
+  }
+  Categoria {
+    int id_categoria PK
+    nvarchar nombre
+    nvarchar descripcion
+    bit activo
+  }
+  Producto {
+    bigint id_producto PK
+    nvarchar nombre
+    nvarchar descripcion
+    nvarchar sku
+    decimal precio
+    int stock_cantidad
+    bit activo
+    datetime2 created_at
+    int id_categoria FK
+  }
+  ImagenProducto {
+    int id_imagen PK
+    nvarchar url_imagen
+    bit es_principal
+    tinyint orden
+    bigint id_producto FK
+  }
+  Resena {
+    bigint id_resena PK
+    tinyint rating
+    nvarchar comentario
+    datetime2 created_at
+    bigint id_cliente FK
+    bigint id_producto FK
+  }
+  Pedido {
+    bigint id_pedido PK
+    nvarchar estado
+    datetime2 created_at
+    datetime2 updated_at
+    bigint id_cliente FK
+    bigint id_direccion FK
+  }
+  DetallePedido {
+    bigint id_detalle PK
+    int cantidad
+    decimal precio_unitario
+    decimal subtotal
+    bigint id_pedido FK
+    bigint id_producto FK
+  }
+  Factura {
+    bigint id_factura PK
+    nvarchar nro_factura
+    decimal subtotal
+    decimal iva
+    decimal total
+    datetime2 fecha_emision
+    bigint id_pedido FK
+  }
+  Pago {
+    bigint id_pago PK
+    nvarchar metodo_pago
+    decimal monto
+    nvarchar estado
+    nvarchar referencia_externa
+    datetime2 fecha_pago
+    bigint id_factura FK
+  }
+  Envio {
+    bigint id_envio PK
+    nvarchar numero_guia
+    nvarchar empresa_transporte
+    nvarchar metodo_envio
+    decimal costo_envio
+    nvarchar estado_envio
+    datetime2 fecha_despacho
+    datetime2 fecha_entrega
+    datetime2 created_at
+    bigint id_pedido FK
+  }
+
+  Departamento ||--o{ Ciudad : "tiene"
+  Ciudad ||--o{ CodigoPostal : "tiene"
+  CodigoPostal ||--o{ DireccionCliente : "ubica"
+  Cliente ||--o{ DireccionCliente : "registra"
+  Cliente ||--o{ Pedido : "realiza"
+  Cliente ||--o{ Resena : "escribe"
+  DireccionCliente ||--o{ Pedido : "destino de"
+  Categoria ||--o{ Producto : "agrupa"
+  Producto ||--o{ ImagenProducto : "tiene"
+  Producto ||--o{ DetallePedido : "aparece en"
+  Producto ||--o{ Resena : "recibe"
+  Pedido ||--o{ DetallePedido : "contiene"
+  Pedido ||--|| Factura : "genera"
+  Pedido ||--|| Envio : "origina"
+  Factura ||--o{ Pago : "cobra mediante"
+`;
+
+const { svg } = await mermaid.render('erd-svg', diagram);
+document.getElementById('erd').innerHTML = svg;
+
+document.querySelectorAll('#erd svg .node').forEach(node => {
+  const firstPath = node.querySelector('path[d]');
+  if (!firstPath) return;
+  const d = firstPath.getAttribute('d');
+  const nums = d.match(/-?[\d.]+/g)?.map(Number);
+  if (!nums || nums.length < 8) return;
+  const xs = [nums[0], nums[2], nums[4], nums[6]];
+  const ys = [nums[1], nums[3], nums[5], nums[7]];
+  const x = Math.min(...xs), y = Math.min(...ys);
+  const w = Math.max(...xs) - x, h = Math.max(...ys) - y;
+  const rect = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
+  rect.setAttribute('x', x); rect.setAttribute('y', y);
+  rect.setAttribute('width', w); rect.setAttribute('height', h);
+  rect.setAttribute('rx', '8');
+  for (const a of ['fill', 'stroke', 'stroke-width', 'class', 'style']) {
+    if (firstPath.hasAttribute(a)) rect.setAttribute(a, firstPath.getAttribute(a));
+  }
+  firstPath.replaceWith(rect);
+});
+
+document.querySelectorAll('#erd svg .row-rect-odd path, #erd svg .row-rect-even path').forEach(p => {
+  p.setAttribute('stroke', 'none');
+});
+</script>
